@@ -10,9 +10,9 @@ This project structure is suitable when:
  
  - You can run all the analysis toghether: ```python __main__.py```
  
- - You can run analyis one on its own: ```python -m main_one_age.__main__```
+ - You can run analysis one on its own: ```python -m main_one_age.__main__```
 
- - You can run analys two on its onw  ```python -m main_two_height.__main__```
+ - You can run analysis two on its onw  ```python -m main_two_height.__main__```
 
 
 ## Venv
